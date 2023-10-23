@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoluvuyoManxeba
 - 👀 I’m interested in everything web development
-- 🌱 I’m currently learning express.js &next.js
+- 🌱 I’m currently learning express.js ,next.js,nodejs,react,html,css,Javascript 
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me ...
 
